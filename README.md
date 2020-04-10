@@ -18,7 +18,7 @@ The second map is to visualize historically significant volcanic eruptions in pr
 
 
 
- INSERT LINK
+ https://seanrouf.github.io/finalproject/map-two.html?fbclid=IwAR2eYqe9uMTwEU5zTDV9tMlCrMNd_1oW7_tqMawzLA_l3_rFa0zebGUI7Y4
  
  
 ![alt text](https://raw.githubusercontent.com/UBC-GEOB472-Spring2020/ezizic-web/master/Earthquake_prox.png
