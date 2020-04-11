@@ -8,9 +8,9 @@ The first map is to examine clustering of all volcanoes. We decided it was impor
 
 https://seanrouf.github.io/finalproject/map-one.html?fbclid=IwAR3_rSgDTWjcWb84ejB7doen0JkObdSNoPy-FNdCQmaWyFe-yikBf4nkbBs
 
-This image is a still of the map that shows a volcano in Iceland, not far off of Rejkyavik, Iceland's most populated city, and it shows that the risk level and the hazard level are both defined at 2 on a 5 point scale. 
-![alt text](https://raw.githubusercontent.com/UBC-GEOB472-Spring2020/ezizic-web/master/Risk.png "Logo Title Text 1")
 
+This image is a still of the map that shows a volcano in Iceland, not far off of Rejkyavik, Iceland's most populated city, and it shows that the risk level and the hazard level are both defined at 2 on a 5 point scale. Iceland has many active volcanoes, and this is one that poses a higher risk on the island nation. 
+![alt text](https://raw.githubusercontent.com/UBC-GEOB472-Spring2020/ezizic-web/master/Risk.png "Logo Title Text 1")
 
 
 
@@ -20,8 +20,13 @@ The second map is to visualize historically significant volcanic eruptions in pr
 
  https://seanrouf.github.io/finalproject/map-two.html?fbclid=IwAR2eYqe9uMTwEU5zTDV9tMlCrMNd_1oW7_tqMawzLA_l3_rFa0zebGUI7Y4
  
- 
+ This image is another look at a volcano in Iceland. There are some interesting facts about the history of the volcano and its major explosion. 
 ![alt text](https://raw.githubusercontent.com/UBC-GEOB472-Spring2020/ezizic-web/master/Earthquake_prox.png
+ "Logo Title Text 1")
+ 
+ 
+ The following is another still but this time in Indonesia. There were several hazardous eruptions in 2010 that covered the city in ash. 
+ ![alt text](https://raw.githubusercontent.com/UBC-GEOB472-Spring2020/ezizic-web/master/sinabung.png
  "Logo Title Text 1")
 
 
